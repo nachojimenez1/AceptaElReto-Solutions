@@ -19,7 +19,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | `167` | [Pintando fractales](./Problemas/167_Pintandofractales) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/167_Pintandofractales/solution.cpp) | `0.048 segs.` | `1820 KiB` |
-| `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.cpp) | `0.06 segs.` | `1820 KiB` |
+| `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.java) | `0.365 segs.` | `1741 KiB` |
 
 ---
 
