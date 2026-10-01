@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-2-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-3-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,11 +14,12 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (2)
+## 🏆 Problemas Resueltos (3)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | `167` | [Pintando fractales](./Problemas/167_Pintandofractales) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/167_Pintandofractales/solution.cpp) | `0.048 segs.` | `1820 KiB` |
+| `180` | [Triángulos](./Problemas/180_Triangulos) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/180_Triangulos/solution.java) | `0.373 segs.` | `1741 KiB` |
 | `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.java) | `0.365 segs.` | `1741 KiB` |
 
 ---
