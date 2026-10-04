@@ -12,9 +12,6 @@ long long calcular(long long num1, long long num2){
 }
 
 int main(){
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-
     int casos;
     cin >> casos;
 
