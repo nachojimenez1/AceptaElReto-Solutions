@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-8-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-9-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (8)
+## 🏆 Problemas Resueltos (9)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -26,6 +26,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `441` | [Contar hasta el final](./Problemas/441_Contarhastaelfinal) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/441_Contarhastaelfinal/solution.cpp) | `0.012 segs.` | `1816 KiB` |
 | `442` | [Camellos, serpientes y kebabs](./Problemas/442_Camellosserpientesykebabs) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/442_Camellosserpientesykebabs/solution.cpp) | `0.024 segs.` | `1820 KiB` |
 | `673` | [Adornos equilibrados](./Problemas/673_Adornosequilibrados) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/673_Adornosequilibrados/solution.cpp) | `0.292 segs.` | `7288 KiB` |
+| `760` | [Bloqueo seguro](./Problemas/760_Bloqueoseguro) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/760_Bloqueoseguro/solution.cpp) | `0.66 segs.` | `2000 KiB` |
 
 ---
 
